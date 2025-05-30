@@ -1,0 +1,10 @@
+name: serverapp
+title:
+username: mateserver
+account: mateserver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14853683
+bundleId: 10368990
+url: https://mateserver.shinyapps.io/serverapp/
+version: 1
